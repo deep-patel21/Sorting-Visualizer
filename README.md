@@ -7,5 +7,5 @@ Insertion
 Selection
 
 Upcoming Features:
-Time control
+Time control,
 Polished user interface
